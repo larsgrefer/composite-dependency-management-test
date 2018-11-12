@@ -1,0 +1,14 @@
+plugins {
+    id "java"
+}
+
+group = "de.larsgrefer.example"
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile "de.larsgrefer.example:project-a"
+}
+

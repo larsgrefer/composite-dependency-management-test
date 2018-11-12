@@ -1,0 +1,3 @@
+rootProject.name = "project-b"
+
+includeBuild "../project-a"
